@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# локальные черновики вывода
+chk_*.txt
+chk_*.csv
+run_out.txt
+tests_out.txt
+
+# OS / IDE
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

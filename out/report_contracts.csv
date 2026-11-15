@@ -1,0 +1,3 @@
+﻿contract_id;contractor;contract_amount;signed_at;works_active_total;works_cancelled_total;works_paid;unallocated_advance;paid_on_cancelled;paid_total;remaining;remaining_accepted;remaining_not_accepted;queued;as_of
+D-1;Студия «Свет»;600000.00;25.08.2026;500000.00;100000.00;315000.00;0.00;0.00;315000.00;185000.00;0.00;185000.00;150000.00;2026-11-10
+D-2;Иван Петров, дизайнер;90000.00;20.09.2026;90000.00;0.00;75000.00;0.00;0.00;75000.00;15000.00;0.00;15000.00;0.00;2026-11-10
